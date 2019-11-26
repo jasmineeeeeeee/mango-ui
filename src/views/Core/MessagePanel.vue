@@ -53,7 +53,7 @@ export default {
           key: "4",
           avatar:'@/assets/user.png',
           content:'您发表了一篇新随笔',
-          sender:'苍井空',
+          sender:'金路云',
           time:'昨天'
         },
         {
